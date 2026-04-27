@@ -1,2 +1,7 @@
-# demo-maria-ines-aeid
-Demo web para María Inés Aeid — diseñada por eterlab.
+# María Inés Aeid
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
